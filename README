@@ -1,0 +1,9 @@
+This repository contains a number of functions that will aid in the design and calculation of several seperations processes. These include:
+
+-batch distillation, batch()
+-stripping and absorption, stripp() and absorb()
+-LLE distillation of ternary systems, LLE()
+-distillation columns, with two or more different types of feeds, distillation_column()
+
+These functions will be fairly robust, capable of calculating several different parameters based on the values being input.
+All of them are intended to be used in the terminal.
